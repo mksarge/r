@@ -1,6 +1,6 @@
 ## ReactJS Vancouver - July 2017 Meetup
 
-Slides and links from my talk on Redux-first routing at the ReactJS Vancouver meetup (July 2017).
+Slides and links from my talk on Redux-first routing at the [ReactJS Vancouver meetup (July 2017)](https://www.meetup.com/ReactJS-Vancouver-Meetup/events/241253890/).
 
 <hr/>
 
@@ -29,4 +29,3 @@ Slides and links from my talk on Redux-first routing at the ReactJS Vancouver me
 - https://github.com/mksarge
 - https://mksarge.com
 - michael-sargent@hotmail.com
-
