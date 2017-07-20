@@ -25,7 +25,7 @@ Slides and links from my talk on Redux-first routing at the ReactJS Vancouver me
 #### Connect with me
 
 - https://twitter.com/michaelksarge
-- https://linkedin.com/mksarge
+- https://linkedin.com/in/mksarge
 - https://github.com/mksarge
 - https://mksarge.com
 - michael-sargent@hotmail.com
